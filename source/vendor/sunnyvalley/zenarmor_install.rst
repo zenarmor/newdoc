@@ -127,19 +127,25 @@ For detailed information on "Deployment Modes", see `here <https://www.zenarmor
 
 * Click :menuselection:`Next` to continue to the :menuselection:`Cloud Reputation` section.
 
+Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as dmz, lan, guest, wifi or wan.
+
+.. image:: images/zenarmor-wizard-set-security-zone.png
+:width: 100%
+
 ....................
-5- Cloud Reputation
+5-  Activate Subscription
 ....................
 
-The Cloud Threat Intelligence data is queried in real-time when any connections are made through your network. This capability enables Zenarmor to respond to malware and wireless outbreaks in real-time and very quickly.
+Installation wizard offers you the following options in this step:
 
-The engine processes the request, queries the **“Sunny Valley Network (SVN) Cloud”** in real-time, and decides whether it will be blocked or allowed. Zenarmor checks against 300+ million websites under 120+ categories in milliseconds.
+* Start 15-day Free Trial of a Business Subscription
+* Activate your current subscription key
+* Continue with the Free Edition
 
-Cloud Threat Intel settings let you:
+If you wish to try 15-day Free Business Edition, select the Get Me 15-day Free Trial of Business Subscription option and type your e-mail address to claim your subscription key.
 
-* Enable/Disable the “Cloud Reputation & Web Categorization” engine
-* Set the local domain name you wish to be excluded from cloud queries
-* Select the fastest Cloud Reputation Servers which are used for queries
+
+Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
 
 .. image:: images/zenarmor-wizard-cloud-reputation.png
     :width: 100%
