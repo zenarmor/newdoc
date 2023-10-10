@@ -130,7 +130,7 @@ For detailed information on "Deployment Modes", see `here <https://www.zenarmor
 Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as dmz, lan, guest, wifi or wan.
 
 .. image:: images/zenarmor-wizard-set-security-zone.png
-:width: 100%
+    :width: 100%
 
 ....................
 5-  Activate Subscription
@@ -152,6 +152,7 @@ Everyone who installs Zenarmor and login into their Zenconsole may take advantag
 
 * Click :menuselection:`Next` to continue to the :menuselection:`Updates & Health Check section` section.
 
+If you have a subscription, select I already have my subscription key option to activate your subscription key.
 
 ..........................
 6- Updates & Health Check
@@ -198,6 +199,8 @@ Zenarmor may support up to 1,000 concurrent users on an average PC. You can set 
     :width: 100%
 
 * Click the :menuselection:`Finish` button to save your initial configuration data and start using Zenarmor.
+  Click the :menuselection:`Complete` button to save your initial configuration data and start using Zenarmor.
+
 
 -------------------
 **Hands-on Video**
