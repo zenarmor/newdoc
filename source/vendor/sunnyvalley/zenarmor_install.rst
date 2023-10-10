@@ -115,7 +115,7 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 4- Interface Selection
 .......................
 
-* Select the Ethernet Interface(s) to protect. To do so, click on an interface and use the right/left arrow buttons to move it to protected/unprotected interfaces combo box.
+* Select the Ethernet Interface(s) to protect. To do so, click on an interface and use the right or left arrow buttons to move it to the protected/unprotected interfaces combo box.
 
 For detailed information on "Deployment Modes", see `here <https://www.zenarmor.com/docs/guides/deployment-modes>`_. 
 
@@ -127,7 +127,7 @@ For detailed information on "Deployment Modes", see `here <https://www.zenarmor
 
 * Click :menuselection:`Next` to continue to the :menuselection:`Cloud Reputation` section.
 
-Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as dmz, lan, guest, wifi or wan.
+Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as DMZ, LAN, guest, wifi, or wan.
 
 .. image:: images/zenarmor-wizard-set-security-zone.png
     :width: 100%
@@ -142,7 +142,7 @@ Installation wizard offers you the following options in this step:
 * Activate your current subscription key
 * Continue with the Free Edition
 
-If you wish to try 15-day Free Business Edition, select the Get Me 15-day Free Trial of Business Subscription option and type your e-mail address to claim your subscription key.
+If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Free Trial of Business Subscription option and type your e-mail address to claim your subscription key.
 
 
 Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
