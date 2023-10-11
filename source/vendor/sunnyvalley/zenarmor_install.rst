@@ -107,8 +107,14 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 * Click the :menuselection:`Install Database & Proceed` button to install the local database if one is chosen and continue to the :menuselection:`Interface Selection` section.
 
 .......................
-4- Interface Selection
+4- Deployment Mode & Interface Selection
 .......................
+
+
+You may follow the instructions for Zenarmor deployment mode and interface selection:
+
+Select the deployment mode depending on your topology and requirements. By default, the Routed mode with emulated netmap driver option is selected on OPNsense. You may find detailed information in the "Deployment Modes Guide", see `here <https://www.zenarmor.com/docs/guides/deployment-modes>`_. 
+
 
 * Select the Ethernet Interface(s) to protect. To do so, click on an interface and use the right or left arrow buttons to move it to the protected/unprotected interfaces combo box.
 
