@@ -107,7 +107,7 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 * Click the :menuselection:`Install Database & Proceed` button to install the local database if one is chosen and continue to the :menuselection:`Interface Selection` section.
 
 .......................
-4- Deployment Mode & Interface Selection
+3- Deployment Mode & Interface Selection
 .......................
 
 
@@ -129,7 +129,7 @@ Click the Set Security Zone drop-down menu to assign a tag for the interface. Yo
     :width: 35%
 
 ....................
-5-  Activate Subscription
+4-  Activate Subscription
 ....................
 
 Installation wizard offers you the following options in this step:
@@ -150,44 +150,8 @@ If you have a subscription, select I already have my subscription key option to 
 .. image:: images/zenarmor-wizard-activating-subscription.png
     :width: 100%
 
-
-..........................
-6- Updates & Health Check
-..........................
-
-.. Note::
-
-   Zenarmor uses the OPNsense package system to deliver its updates. You may configure how you prefer to receive your Zenarmor updates.
-
-* **Check for Updates Automatically:** Checks automatically for the updates and creates a notification on the Zenarmor “Status” page.
-* **Automatically Update Databases and Threat Intelligence Data:** Checks automatically for the updates and creates a notification on the Zenarmor “Status” page.
-* **Enable Generation of Support Data:** If enabled, Zenarmor collects supporting data during unusual events and crashes. You can share this data when opening a ticket with us.
-* **Max Swap Utilization:** You may specify how much swap space Zenarmor may utilize when the system is low on memory. It is recommended that you do not set this value too high. Otherwise, system performance may suffer.
-* **Health Check:** If enabled, "Health Check" monitors the system's memory, CPU, disk usage, and core services if they're working correctly, and raises alerts if anything goes wrong. "Health Check" also stops the appropriate services if they're consuming excessive system resources.
-* **Help Sunny Valley Improve Its Products and Services:** If enabled, general system information is submitted to Sunny Valley to help improve the future development of Zenarmor.
-
-.. image:: images/zenarmor-wizard-updates-health-check.png
-    :width: 100%
-
-* Click :menuselection:`Next` to continue to the :menuselection:`Deployment Size` section.
-
 ....................
-7- Deployment Size
-....................
-
-Zenarmor may support up to 1,000 concurrent users on an average PC. You can set your Zenarmor installation’s capacity in this section.
-
-.. Note::
-
-    You may see detailed information about suggested hardware at :doc:`zenarmor_hardwarerequirements`
-
-.. image:: images/zenarmor-wizard-deployment-size.png
-    :width: 100%
-
-* Click :menuselection:`Next` to continue to the :menuselection:`Finish` section.
-
-....................
-8- Finish
+5- Finish
 ....................
 
 * You may enter your email address if you wish to subscribe to the Sunny Valley email list to stay up to date on the latest news.
