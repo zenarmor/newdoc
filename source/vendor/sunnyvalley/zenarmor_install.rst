@@ -137,9 +137,6 @@ If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Fr
 **Note**
      Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
 
-.. image:: images/zenarmor-wizard-cloud-reputation.png
-    :width: 100%
-
 * Click :menuselection:`Next` to continue to the :menuselection:`Updates & Health Check section` section.
 
 If you have a subscription, select I already have my subscription key option to activate your subscription key.
