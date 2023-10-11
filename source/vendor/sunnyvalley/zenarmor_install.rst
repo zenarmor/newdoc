@@ -58,7 +58,7 @@ To start the "Initial Configuration Wizard":
 * Click the :menuselection:`Proceed` button to continue to the :menuselection:`Hardware Check` section.
 
 ....................
-2- Hardware Check
+2- Hardware Check & Reporting Database
 ....................
 
 Your hardware will be analyzed to ensure it meets the minimum requirements. You will receive one of the following responses: compatible hardware, low-end hardware, incompatible hardware. The setup will not continue if you have incompatible hardware.
@@ -78,11 +78,6 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 
 *Incompatible*
 
-* Click :menuselection:`Next` to continue to the :menuselection:`Reporting Database` section.
-
-......................
-3- Reporting Database
-......................
 
 * Select the database you wish to use for reporting. High-end systems will have 3 options, while low-end systems only have 2 options.
 
