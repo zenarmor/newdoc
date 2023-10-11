@@ -141,6 +141,10 @@ If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Fr
 
 If you have a subscription, select I already have my subscription key option to activate your subscription key.
 
+.. image:: images/zenarmor-wizard-activating-subscription.png
+    :width: 100%
+
+
 ..........................
 6- Updates & Health Check
 ..........................
