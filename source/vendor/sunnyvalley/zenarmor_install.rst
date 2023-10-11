@@ -144,8 +144,8 @@ Installation wizard offers you the following options in this step:
 
 If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Free Trial of Business Subscription option and type your e-mail address to claim your subscription key.
 
-
-Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
+**Note**
+     Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
 
 .. image:: images/zenarmor-wizard-cloud-reputation.png
     :width: 100%
@@ -198,8 +198,8 @@ Zenarmor may support up to 1,000 concurrent users on an average PC. You can set 
 .. image:: images/zenarmor-wizard-finish.png
     :width: 100%
 
-* Click the :menuselection:`Finish` button to save your initial configuration data and start using Zenarmor.
-  Click the :menuselection:`Complete` button to save your initial configuration data and start using Zenarmor.
+
+* Click the :menuselection:`Complete` button to save your initial configuration data and start using Zenarmor.
 
 
 -------------------
