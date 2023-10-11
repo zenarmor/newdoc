@@ -125,8 +125,6 @@ For detailed information on "Deployment Modes", see `here <https://www.zenarmor
 .. image:: images/zenarmor-wizard-interface-selection-protected.png
     :width: 100%
 
-* Click :menuselection:`Next` to continue to the :menuselection:`Cloud Reputation` section.
-
 Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as DMZ, LAN, guest, wifi, or wan.
 
 .. image:: images/zenarmor-wizard-set-security-zone.png
