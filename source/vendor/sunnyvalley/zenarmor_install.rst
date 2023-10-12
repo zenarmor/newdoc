@@ -5,7 +5,7 @@ Zenarmor (Sensei): Installing via Web Interface
 
 
 
- **Note**
+.. Note::
  
     Zenarmor Free Edition is **forever free-of-charge**. We strongly recommend you register to keep in touch with updates and new features. You can register at `https://www.zenarmor.com/zenarmor-next-generation-firewall <https://www.zenarmor.com/zenarmor-next-generation-firewall>`_
    
@@ -14,7 +14,7 @@ Zenarmor may be installed using the web interface in OPNsense or using the comma
 
 To install plugins in OPNsense, you must use an account with administrative access.
 
-**Note**
+.. Note::
 
     Before installing Zenarmor, you should ensure you meet the minimum system requirements in order to run Zenarmor or have the best user experience. See :doc:`zenarmor_hardwarerequirements` for more information.
 
@@ -83,7 +83,7 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 
 After the wizard completes the hardware analysis, select the database you wish to use for reporting. High-end systems will have 4 options, while low-end systems only have 3 options except Local ElasticSearch DB.
 
-**Note**
+.. Note::
 
 Zenarmor offers the following Database deployment options:
 
@@ -94,13 +94,6 @@ Zenarmor offers the following Database deployment options:
 -MongoDB Database
 
 -SQLite Database
-
-
-**Note:** Highlights information that users should take into account, even when skimming.
-
-**Important:** Crucial information necessary for users to succeed.
-
-**Warning:** Critical content demanding immediate user attention due to potential risks.
 
 
 .. Warning::
@@ -150,7 +143,8 @@ You may follow the instructions for Zenarmor deployment mode and interface selec
 
 Select the deployment mode depending on your topology and requirements. By default, the Routed mode with emulated netmap driver option is selected on OPNsense. You may find detailed information in the "Deployment Modes Guide", see `here <https://www.zenarmor.com/docs/guides/deployment-modes>`_. 
 
-PREREQUISITE
+.. PREREQUISITE::
+
 Before selecting Netmap driver deployment options, make sure that the hardware offloadings are disabled on your node. Since the Hardware Offloading feature is incompatible with Netmap.
 
 
