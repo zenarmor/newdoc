@@ -195,6 +195,8 @@ If you have a subscription, select I already have my subscription key option to 
 .. image:: images/zenarmor-wizard-activating-subscription.png
     :width: 100%
 
+Click Next to proceed to the Finish section.
+
 ....................
 5- Finish
 ....................
