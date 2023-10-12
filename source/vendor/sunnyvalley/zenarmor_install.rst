@@ -83,8 +83,9 @@ Your hardware will be analyzed to ensure it meets the minimum requirements. You 
 
 After the wizard completes the hardware analysis, select the database you wish to use for reporting. High-end systems will have 4 options, while low-end systems only have 3 options except Local ElasticSearch DB.
 
-> [!NOTE]
->  Zenarmor offers the following Database deployment options:
+**Note**
+
+Zenarmor offers the following Database deployment options:
 
 Local ElasticSearch DB
 Remote ElasticSearch DB
