@@ -55,7 +55,7 @@ To start the "Initial Configuration Wizard":
 .. image:: images/zenarmor-wizard-welcome.png
     :width: 100%
 
-* Click the :menuselection:`Proceed` button to continue to the :menuselection:`Hardware Check` section.
+* Click the :menuselection:`Proceed` button to continue to the :menuselection:`Hardware Check & Reporting Database` section.
 
 ....................
 2- Hardware Check & Reporting Database
