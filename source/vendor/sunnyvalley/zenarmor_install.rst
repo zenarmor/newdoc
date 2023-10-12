@@ -96,7 +96,8 @@ Zenarmor offers the following Database deployment options:
 -SQLite Database
 
 
-
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 
 .. Warning::
 
