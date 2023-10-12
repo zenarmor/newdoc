@@ -167,6 +167,9 @@ Click the Set Security Zone drop-down menu to assign a tag for the interface. Yo
 .. image:: images/zenarmor-wizard-set-security-zone.png
     :width: 35%
 
+
+To add a custom security zone tag, click the Custom button in the Set Security Zone drop-down menu. After typing the new security zone name, such as vpn, click Add button.
+
 ....................
 4-  Activate Subscription
 ....................
@@ -208,5 +211,5 @@ If you have a subscription, select I already have my subscription key option to 
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hvz1qhNBZdo" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/Hvz1qhNBZdo" frameborder="0" allowfullscreen></iframe>
 
