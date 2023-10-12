@@ -195,19 +195,27 @@ If you have a subscription, select I already have my subscription key option to 
 .. image:: images/zenarmor-wizard-activating-subscription.png
     :width: 100%
 
+
+You may also use Free Edition by selecting the Get Me the Free Edition option. You may enter your email address if you wish to subscribe to the Sunny Valley email list to stay up-to-date on the latest news.
+
+
+.. image:: images/zenarmor-getting-free-edition.png
+    :width: 100%
+
+
 Click Next to proceed to the Finish section.
 
 ....................
 5- Finish
 ....................
 
-* You may enter your email address if you wish to subscribe to the Sunny Valley email list to stay up to date on the latest news.
+* Click the :menuselection:`Complete` button to save your initial configuration data and start using Zenarmor.
 
 .. image:: images/zenarmor-wizard-finish.png
     :width: 100%
 
 
-* Click the :menuselection:`Complete` button to save your initial configuration data and start using Zenarmor.
+
 
 
 -------------------
