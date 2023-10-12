@@ -117,7 +117,20 @@ SQLite Database
 .. image:: images/zenarmor-wizard-reporting-database-remote.png
     :width: 100%
 
-* Click the :menuselection:`Install Database & Proceed` button to install the local database if one is chosen and continue to the :menuselection:`Interface Selection` section.
+
+Click the Install Database button to install the local database if one is chosen and to continue to the Interface Selection section.
+
+.. image:: images/zenarmor-wizard-reporting-database-remote.png
+    :width: 100%
+
+
+Click the Next button to proceed with interface selection.
+
+
+.. image:: images/zenarmor-wizard-reporting-database-remote.png
+    :width: 100%
+
+* Click the :menuselection:`Deployment Mode & Interface Selection` button :menuselection:`Interface Selection` section.
 
 .......................
 3- Deployment Mode & Interface Selection
