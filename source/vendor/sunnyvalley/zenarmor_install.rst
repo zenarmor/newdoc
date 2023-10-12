@@ -141,6 +141,17 @@ You may follow the instructions for Zenarmor deployment mode and interface selec
 
 Select the deployment mode depending on your topology and requirements. By default, the Routed mode with emulated netmap driver option is selected on OPNsense. You may find detailed information in the "Deployment Modes Guide", see `here <https://www.zenarmor.com/docs/guides/deployment-modes>`_. 
 
+PREREQUISITE
+Before selecting Netmap driver deployment options, make sure that the hardware offloadings are disabled on your node. Since the Hardware Offloading feature is incompatible with Netmap.
+
+
+.. image:: images/zenarmor-selecting-deployment-mode.png
+    :width: 100%
+
+You may check the CPU Pinning option. Zenarmor has a setting to make CPU pinning optional, giving you more flexibility in how you configure your system for optimal performance. By default, Zenarmor is pinned to a dedicated core in order to prevent CPU context-switching overhead. Because if the process wanders between CPU processors, CPU cache misses occur, which has a negative impact on performance.
+
+You may disable this setting depending on your requirements by clicking on the Do not pin engine packet processors to dedicated CPU cores option.
+
 
 * Select the Ethernet Interface(s) to protect. To do so, click on an interface and use the right or left arrow buttons to move it to the protected/unprotected interfaces combo box.
 
@@ -148,6 +159,8 @@ For detailed information on "Deployment Modes", see `here <https://www.zenarmor
 
 .. image:: images/zenarmor-wizard-interface-selection-available.png
     :width: 100%
+
+
 
 Click the Set Security Zone drop-down menu to assign a tag for the interface. You may set a custom security zone name or select one of the options available, such as DMZ, LAN, guest, wifi, or wan.
 
