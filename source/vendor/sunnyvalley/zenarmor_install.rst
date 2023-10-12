@@ -120,14 +120,14 @@ SQLite Database
 
 Click the Install Database button to install the local database if one is chosen and to continue to the Interface Selection section.
 
-.. image:: images/zenarmor-db-install-finished.png
-    :width: 100%
+.. image:: images/zenarmor-installing-ecs.png
+    :width: 100%  
 
 
 Click the Next button to proceed with interface selection.
 
 
-.. image:: images/zenarmor-install-complete.png
+.. image:: images/zenarmor-db-install-finished.png
     :width: 100%
 
 * Click the :menuselection:`Deployment Mode & Interface Selection` button :menuselection:`Interface Selection` section.
