@@ -185,7 +185,7 @@ Installation wizard offers you the following options in this step:
 
 If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Free Trial of Business Subscription option and type your e-mail address to claim your subscription key.
 
-**Note**
+**Tip**
      Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
 
 * Click :menuselection:`Next` to continue to the :menuselection:`Updates & Health Check section` section.
