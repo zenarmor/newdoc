@@ -88,8 +88,11 @@ After the wizard completes the hardware analysis, select the database you wish t
 Zenarmor offers the following Database deployment options:
 
 -Local ElasticSearch DB
+
 -Remote ElasticSearch DB
+
 -MongoDB Database
+
 -SQLite Database
 
 
