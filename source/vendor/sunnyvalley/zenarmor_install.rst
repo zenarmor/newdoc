@@ -215,18 +215,3 @@ Click Next to proceed to the Finish section.
     :width: 100%
 
 
-
-
-
--------------------
-**Hands-on Video**
-
--------------------
-Here is a video that will guide you through the steps of the Zenarmor® installation and initial configuration process on OPNsense:
-.. raw:: HTML
-
- 
-
-
-    <iframe width="560" height="315" src="https://youtu.be/Hvz1qhNBZdo" frameborder="0" allowfullscreen></iframe>
-
