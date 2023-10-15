@@ -55,7 +55,7 @@ To start the "Initial Configuration Wizard":
 .. image:: images/zenarmor-wizard-welcome.png
     :width: 100%
 
-* Click the :menuselection:`Proceed` button to continue to the :menuselection:`Hardware Check & Reporting Database` section.
+* Click the :menuselection:`I Agree` button to continue to the :menuselection:`Hardware Check & Reporting Database` section.
 
 ....................
 2- Hardware Check & Reporting Database
@@ -132,7 +132,7 @@ Click the Next button to proceed with interface selection.
 .. image:: images/zenarmor-db-install-finished.png
     :width: 100%
 
-* Click the :menuselection:`Deployment Mode & Interface Selection` button :menuselection:`Interface Selection` section.
+* Click the :menuselection:`Next` button :menuselection:`Interface Selection` section.
 
 .......................
 3- Deployment Mode & Interface Selection
@@ -143,7 +143,7 @@ You may follow the instructions for Zenarmor deployment mode and interface selec
 
 Select the deployment mode depending on your topology and requirements. By default, the Routed mode with emulated netmap driver option is selected on OPNsense. You may find detailed information in the "Deployment Modes Guide", see `here <https://www.zenarmor.com/docs/guides/deployment-modes>`_. 
 
-.. PREREQUISITE::
+**PREREQUISITE**
 
 Before selecting Netmap driver deployment options, make sure that the hardware offloadings are disabled on your node. Since the Hardware Offloading feature is incompatible with Netmap.
 
@@ -188,7 +188,7 @@ If you wish to try the 15-day Free Business Edition, select the Get Me 15-day Fr
 **Tip**
      Everyone who installs Zenarmor and login into their Zenconsole may take advantage of a 15-Day Free Trial of Zenarmor Business Edition without entering credit card information.
 
-* Click :menuselection:`Next` to continue to the :menuselection:`Updates & Health Check section` section.
+* Click :menuselection:`Next` to continue to the :menuselection:`Finish` section.
 
 If you have a subscription, select I already have my subscription key option to activate your subscription key.
 
@@ -196,7 +196,7 @@ If you have a subscription, select I already have my subscription key option to 
     :width: 100%
 
 
-You may also use Free Edition by selecting the Get Me the Free Edition option. You may enter your email address if you wish to subscribe to the Sunny Valley email list to stay up-to-date on the latest news.
+You may also use the Free Edition by selecting the Get Me the Free Edition option. You may enter your email address if you wish to subscribe to the Zenarmor email list to stay up-to-date on the latest news.
 
 
 .. image:: images/zenarmor-getting-free-edition.png
